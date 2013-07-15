@@ -6,4 +6,4 @@ The HTML is transformed with [Jekyll](https://github.com/mojombo/jekyll).  Each 
 
 ### License ###
 
-- MIT License
+- [MIT License](http://kylemiller.com/mit-license)
